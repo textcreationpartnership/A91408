@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two speeches delivered in Parliament. The one, by Master Pym, the 17th of March. ; The other, by Master Hollis the 21. ; Both worthy members of the House of Commons. ; Wherein, they desire a speedy course to be taken for rectifying of the grievances, and punishing enormous crimes in this kingdome; as also, the bringing of the attvrney-generall to his ansvver.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91408</idno>
+            <idno type="STC">Wing P4301</idno>
+            <idno type="STC">ESTC R182282</idno>
+            <idno type="EEBO-CITATION">43077570</idno>
+            <idno type="OCLC">ocm 43077570</idno>
+            <idno type="VID">151658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151658)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2270:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two speeches delivered in Parliament. The one, by Master Pym, the 17th of March. ; The other, by Master Hollis the 21. ; Both worthy members of the House of Commons. ; Wherein, they desire a speedy course to be taken for rectifying of the grievances, and punishing enormous crimes in this kingdome; as also, the bringing of the attvrney-generall to his ansvver.</title>
+                  <author>Pym, John, 1584-1643.</author>
+                  <author>Holles, Denzil Holles, Baron, 1599-1680.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Coe, and Marmaduke Boat,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print bleed-through.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151658:1"/>
+            <p>TWO SPEECHES DELIVERED IN PARLIAMENT. THE ONE, By Maſter <hi>PYM,</hi> the 17<hi rend="sup">th</hi>. of <hi>March. THE OTHER,</hi> By Maſter <hi>HOLLIS</hi> the 21. <hi>Both worthy Members of the Houſe of</hi> COMMONS.</p>
+            <p>WHEREIN, They deſire a ſpeedy courſe to be taken for recti<g ref="char:EOLhyphen"/>fying of grievances, and puniſhing enormous crimes in this Kingdome: As alſo, the bringing of the ATTVRNEY-Generall to his ANSVVER.</p>
+            <p>LONDON. Printed for <hi>Andrew Coe,</hi> and <hi>Marmaduke Boat.</hi> 1642.</p>
+            <pb facs="tcp:151658:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:151658:2"/>
+            <head>The Speech delivered by M<hi rend="sup">r</hi>. <hi>Hollis</hi> one of the Members of the Houſe of Commons, now conjoyned in PARLIAMENT.</head>
+            <head type="sub">VVith his Arguments againſt Maſter <hi>Harbert</hi> His Ma<g ref="char:EOLhyphen"/>jeſties Atturney Generall, for drawing the Articles of high Treaſon againſt himſelf, and the other five Members of the ſaid Houſe.</head>
+            <div type="part">
+               <opener>
+                  <salute>Mr. <hi>Speaker,</hi>
+                  </salute>
+               </opener>
+               <p>THe ſubtlety, policie, and dubious wayes, bearing rule in a man corrupted, whoſe evill actions come within the compaſſe, and juſtly claim the due reward of exem<g ref="char:EOLhyphen"/>plary puniſhment, is alwayes working; although by the deſtruction and utter delabition of the vertuous, and inno<g ref="char:EOLhyphen"/>nocent (whoſe words and works, actions and endeavors, can be termed to lay holds on nothing but realties) to cleer him<g ref="char:EOLhyphen"/>ſelf: The actions, conditions, and endeavours of the good man, being alwayes the contrary, there being no viciſſitude or coherence with them, in reſpect they are meer oppoſites, the one ſeeking to perform duty both to God and man, through his true dealing for the truth, the other ſeeking what in him lyeth, for the advancing of impiety: The good man joyning with his practiſe, is daily labours for the defence of vertuous and pious deſignes, thereby ſeeking with vigilancie to bring the malig<g ref="char:EOLhyphen"/>nant perſons to deſerved puniſhments, it being a work, which in conſcience is due both to God, his King, and Country.</p>
+               <p>Firſt, To God in reſpect of Religion, and the true and reall Faith we now profeſſe in the Church of <hi>England,</hi> without which we are nothing, being no leſſe then meer Atomes to the World, and the juſt Antipodes to a ground Faith. No faith can ſtand without that true Foundation of Chriſt, no grounds of ſalva<g ref="char:EOLhyphen"/>tion can be had, but by and through thoſe extraordinary merits
+<pb facs="tcp:151658:3"/>and ſufferings, which we are partakers of in Chriſt: if ſo, then does our Saviour da<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſuffer in the inſtigations, and quo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all provo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> againſt him all which are vi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ated by thoſe who are many <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mal g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to the truth.</p>
+               <p>Secondly, To the King, what greater abuſe can there be to His Sacred Majeſty then by the continuall ſufferance, the Sub<g ref="char:EOLhyphen"/>ject, endures through the ill Counſell adminiſtred to our Sove<g ref="char:EOLhyphen"/>raign, being done under the colour of Loyaltie; yet in proving in matter, no better then flat abuſes to this whole Kingdom.</p>
+               <p>Thirdly, If that God and the King, ſo much ſuffer by the aforeſaid means, the poor Subject and Country can do no leſſe; witneſſe the daily diſturbances which are now a dayes, being ſo many, that there is no County almoſt within his Majeſties Do<g ref="char:EOLhyphen"/>minions, but hath delivered their humble petitions to this Ho<g ref="char:EOLhyphen"/>nourable Aſſembly, for removall of the ſaid grievances and the depriving of the aforeſaid perſons of their uſurped authority.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <salute>Mr. <hi>Speaker,</hi>
+                  </salute>
+               </opener>
+               <p>IT is palpable that the wicked man, cares not though he diſ<g ref="char:EOLhyphen"/>honours God in the higheſt degree, may he but defend him<g ref="char:EOLhyphen"/>ſelf and vices, though to the utter aboliſhing of Religion, King, and Country, (aforeſaid) if oppoſite to his deſignes.</p>
+               <p>We have had the experience of the evils and great troubles that have been raiſed in this State by ill inſtruments, men of power and authoritie in the ſame, and not only of publike miſ<g ref="char:EOLhyphen"/>doers and open enemies, but alſo of many privare draffected ſpirits, whoſe outward carriage hath procured to themſelves eſteem and reſpect in their County. Nay, ſo well have they bin approved on, that their Countrey hath not miſled them, with both their eſtates and priviledges, as electing them Members of this high Court of Parliament; wherein alſo for a long time, they have diſcharged their duties to their King and Countrey; nay, and attained the general eſtimation and reſpect of all men, as worthy members of the Commonwealth; but their hearts diſagreeing with their outward qualities, being not upright and perfect, have at leaſt ſhewed themſelves in their perfect colours, and brought them-ſelves to ſhame and diſhonour.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:151658:3"/>
+               <opener>
+                  <salute>Mr. <hi>Speaker,</hi>
+                  </salute>
+               </opener>
+               <p>I Have further to ſpoken of nothing but generals <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow I intend to inſiſt upon a per<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ar, being the Gentleman, who as yet ſtands <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by this Honorable Houſe, His Majeſties Artur<g ref="char:EOLhyphen"/>ney General, who hath bin a man, upon whom all theſe Honors aforenamed, have bin couferred in the Parliament, and no leſte eſteemed by His Majeſty; his place therein being ſufficiently honourable, he needed not to have proceeded ſo far as to prove ambitious, or malitious; which of the two I can nominate, nor am able to diſtinguiſh, was his error, or whether he is guilty of both; how ever, it does appear, his heart was not right in diſ<g ref="char:EOLhyphen"/>charging his duty in that great place committed to him; and as he was a Member of the Parliament, had he bin faithfull to his King and Country, he had never undertaken this Enterpriſe to accuſe us of treaſon, and draw the accuſation againſt us him<g ref="char:EOLhyphen"/>ſelf for which we have already, &amp; further are bound to anſwer.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <salute>Mr. <hi>Speaker,</hi>
+                  </salute>
+               </opener>
+               <p>HIs offence is of a high nature, of dangerous conſequence, a maniſelt Breach of the Priviledges of Parliament, an ap<g ref="char:EOLhyphen"/>parent treachery (if found to rely upon him) againſt thoſe ac<g ref="char:EOLhyphen"/>cuſed Members, of which I am the leaſt, yet moved to ſpeak in the Cauſe, The offence is generally againſt the whole State, de<g ref="char:EOLhyphen"/>ſerving great puniſhment for the fame.</p>
+               <p>By this he hath made himſelf guilty of thoſe miſdemeanours, that other Delinquents have bin impeached, and accuſed for, and nothing inferiour to them in their crime. This deſign was a great offence (if by him adviſed) againſt His ſacred Majeſty himſelf, in ſeeking to work an evill opinion in him concerning his Parliament, and their proceedings in the great affairs, of both Church and State. This is the matter that diſcourages this Hononrable Aſſembly in proceeding in ſuch buſineſſes, as may be for the honour of their King and Country; when they per<g ref="char:EOLhyphen"/>ceive that all their endeavours; and dutifull actions, are not wel accepted by his Majeſty, This and ſuch like ill Councells hath cauſed all this diſtraction in the State.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <salute>Mr. <hi>Speaker,</hi>
+                  </salute>
+               </opener>
+               <p>THe Charge is apparent againſt him, the accuſation is appa<g ref="char:EOLhyphen"/>rent before (as though void;) therefore I in behalf of
+<pb facs="tcp:151658:4"/>the reſt of the Members, moſt humbly deſire you would pro<g ref="char:EOLhyphen"/>ceed to voting him upon the ſame, as he ſhall be found guilty, and his reward may be contributed for the ſame: I for my part have performed my promiſe to thoſe other Members accuſed, in moving you in the buſineſſe; To whoſe conſideration I now leave it, as being beſt able to determine of a matter of ſo great weight.</p>
+            </div>
+         </div>
+         <div type="speech">
+            <head>Maſter <hi>Pyms</hi> Speech, the 17. of <hi>March,</hi> 1641.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>THis great Councell, as <hi>Tully</hi> ſaid of the Senate of <hi>Rome,</hi> is the ſoul of the Common-wealth, wherin one may hear and ſee, all the grievances of the Subjects, and in the multitude of ſuch Counſellors there is ſafety. Amongſt whom, the greateſt priviledge is liberty of Speech; And theffore I humbly offer it unto you, to take it into your ſerious conſideration, whatwrong hath bin done herein, and what judgments hath bin againſt the Members of this houſe, for ſpeaking nothing, but what hath bin for the good of the Common-wealth, which ſaid judgments hath bin againſt Law and Reaſon, being without preſident.</p>
+            <p>What grounds are there, that a Parliament which is the high<g ref="char:EOLhyphen"/>eſt of all Courts, ſhould be queſtioned by inferiour Courts and Judges; as if the Common-Pleas ſhould queſtion the Kings-Bench, or the Chancery be queſtioned by either of them; per<g ref="char:EOLhyphen"/>haps the Authors of it have nature to plead for themfelves, which indeed teacheth every man to preſerve himſelf.</p>
+            <p>This perhaps makes them advance that, and thoſe Members which otherwiſe muſt condemn themſelves; &amp; ſuch things have bin done to maintain their proceedings; as not only to intrengh upon the liberties of Parliament; but alſo the whole Common<g ref="char:EOLhyphen"/>wealth, wherein I had rather ſuffer for ſpeaking the truth, then the truth ſuffer for want of my ſpeaking.</p>
+            <p>Where was evermore piety in a Prince, and more loyalty in Subjects; and yet what Common-wealth ever ſuffered like this? His Majeſty is the Sun, which although it ever ſhine in it ſelf gloriouſly, yet by reaſon of clouds, it many times doth not ſo
+<pb facs="tcp:151658:4"/>appear to us; and if his Majeſty by reaſon of bad members, may not appear in ſuch ſplendor: let us labour to Eclipſe thoſe Clouds, that endeavor to ſtand betwixt us, and the Beams of his favour; otherwiſe what will it avail if the Fountain be cleer, if the ſtreams that iſſue there from be not ſo: alſo I will only in<g ref="char:EOLhyphen"/>ſtance in ſome of the like particulars.</p>
+            <p>If we look into the face of Religion, that is now out-faced by a Company of Seminary Prieſts, who what they want in power, have in malice againſt the Proteſtant; So long as the Pope his agents amongſt us: But theſe are the enemies of the Church, without it; we have thoſe likewiſe within the Church, who can pull down, but never build up, demoliſh, but never e<g ref="char:EOLhyphen"/>ſtabliſh the true Church: Such are thoſe whom we rearm <hi>Non-Reſidents,</hi> that ſerve the Church more for living then loving; ſuch as overſway all by worldly preferments, and feveralities of Benefices: Chriſt made it the Touchſtone of <hi>Peters</hi> love un<g ref="char:EOLhyphen"/>to him, to feed his ſheep and Lambs, but theſe men look at their own private gains, not labouring duplicately for thoſe double honours which they daily get.</p>
+            <p>What thing is there more againſt the Laws of this King and nature, then for one man to have above one wife, and one ſheepheard more then one ſheepfold.</p>
+            <p>Theſe are the dumb dogs the Prophet ſpeaks on, that can<g ref="char:EOLhyphen"/>not utter a word for God, of whom the people may ſeek ſpiri<g ref="char:EOLhyphen"/>tuall food, but can find none. Others there are that preach, but not the Goſpel, but themſelves; teaching that the King hath an unlimited power, and that the Subject hath no propriety in their goods.</p>
+            <p>Theſe are bad <hi>Divines,</hi> and worſe and more ignorant <hi>Stateſ<g ref="char:EOLhyphen"/>men,</hi> who under the name of <hi>Puritans</hi> condemn all, who truly profeſſe Religion. There are ſurely many that under the forme of godlineſſe cloak impiety; but to teach that a man can be too holy, is the Doctrine of Divels.</p>
+            <p>The inconveniences like to come, and already fallen upon the Kingdome, may be juſtly ſaid to ariſe from theſe ſeverall Heads of ill Councels;</p>
+            <p n="1">1. Such as thoſe are the moſt pernicious dangers that can fall upon us or come to a State. It is uſuall in this kind to com<g ref="char:EOLhyphen"/>pare Politique bodies with the naturall: The Naturall body is
+<pb facs="tcp:151658:5"/>endangered divers wait, either by outward violence, which may be ſeen and pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vented, or by leſſe appearing malidies, which growes upon the body by the diſtemper of the aire, im<g ref="char:EOLhyphen"/>moderate exerciſe or diet, &amp;c And when the cauſes of the diſeaſe are clear, the remedy is eaſily applyed: But d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeaſes which pro<g ref="char:EOLhyphen"/>ceed from the inward p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt, as the liver, the heart, or the brain, it is a hard thing to apply an apt cure to ſuch diſeaſes; the Coun<g ref="char:EOLhyphen"/>ſels are of this ſame nature, for the miſchiefs that come by ſuch Counſels, corrupt the vitall parts, and overthrowes the admini<g ref="char:EOLhyphen"/>ſtration of publique government.</p>
+            <p n="2">2. That there are ſuch ill Counſels about the Kings moſt excellent Majeſty, moſt palpably appears, when as the main courſe of government hath bin ſo imployed; as Popery therby hath bin rather maintained then excluded the Laws ſubverted, and no d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on between Juſtice, and Injuſtice: and that there is ſtill reaſon to doubt, is apparent by courſes taken, to advance miſchievous deſigns; but that his Majeſties wiſedome and good<g ref="char:EOLhyphen"/>neſſe kept them f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the heart, though they could not be kept out of the Court.</p>
+            <p n="3">3. The ill Counſels of theſe times are in their own, not ours, more miſchievous and more dangerous then the ill Counſels of former times: Thoſe being only to pleaſe the King &amp; Prince, and to raiſe Prerogatives theſe being miſeries ſufficient: But the ill Counſels of theſe times are to alter Religion and Law.</p>
+            <p n="4">4. That theſe ill counſels have proceeded from a ſpirit and inclination to Popery, and have had a dependency on Popery. The Religion of the Papiſts is a Religion incomputable to any other Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igion, deſtructive to all others and whoſoever doth withſtand their Religion, (if it lye in their power) they bring them to ruine; theſe counſels therfore muſt needs be pernitious.</p>
+            <p n="5">5. Fifthly and Laſtly, while theſe evill Councels continue unchanged, it is impoſſible that any aſſiſtance, aide, or advice, that the Parliament ſhall take to reform, will be effectuall for the publike: We that are the inſtruments of State, may put things in action and good order; but as long as theſe evill Councels are on foot, we can expect no good event: Where<g ref="char:EOLhyphen"/>fore I ſhall deſire this Judicious Aſſembly to conſider of it, And I that have diſcharged my duty in motioning, ſhall like<g ref="char:EOLhyphen"/>wiſe joyn with you for the effecting of all things for the good of this Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
